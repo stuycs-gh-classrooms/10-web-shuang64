@@ -1,0 +1,19 @@
+html {color: pink;
+  font-size: 25px;
+  font-weight: bold;
+  background-color: aliceblue;
+}
+
+body {
+  background-color: lemonchiffon;
+}
+
+h1 {
+  text-align: center;
+  font-family: math
+}
+
+p, img {width: 50%px;
+  height: 50%px;
+  border: 1px solid floralwhite
+}
